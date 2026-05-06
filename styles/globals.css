@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+body {
+  @apply bg-gray-50/80 text-slate-900 antialiased;
+  font-family: var(--font-sans);
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+}
+
+/* -- Cards -- */
+.card {
+  @apply rounded-2xl border border-slate-200/80 bg-white p-5 shadow-panel md:p-6;
+}
+
+/* Smooth opacity transitions for pie chart cells */
+.recharts-pie-sector path,
+.recharts-sector {
+  transition: opacity 0.25s ease, fill-opacity 0.25s ease;
+}
+
+/* Legend tweaks: black text + wider gap between items */
+.recharts-default-legend .recharts-legend-item {
+  margin-right: 24px !important;
+}
+.recharts-default-legend .recharts-legend-item-text {
+  color: #0f172a !important;
+}
+
+/* Remove default blue focus outline on pie cells */
+.recharts-pie-sector,
+.recharts-pie-sector path,
+.recharts-sector,
+.recharts-surface {
+  outline: none !important;
+}
+.recharts-pie-sector:focus,
+.recharts-pie-sector:focus-visible,
+.recharts-pie-sector path:focus,
+.recharts-pie-sector path:focus-visible,
+.recharts-sector:focus,
+.recharts-sector:focus-visible {
+  outline: none !important;
+}
+
+/* -- Inputs -- */
+.input {
+  @apply w-full rounded-xl border border-slate-200 bg-white px-3.5 py-2.5 text-sm text-slate-900 shadow-sm
+    transition-all duration-150 placeholder:text-slate-400
+    focus:border-brand-500 focus:bg-white focus:shadow-glow focus:outline-none;
+  background-color: #ffffff;
+}
+
+.input:hover,
+.input:not(:focus) {
+  background-color: #ffffff;
+}
+
+.input:-webkit-autofill,
+.input:-webkit-autofill:hover,
+.input:-webkit-autofill:focus,
+.input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 1000px #ffffff inset;
+  -webkit-text-fill-color: #0f172a;
+  caret-color: #0f172a;
+}
+
+select.input {
+  @apply appearance-none bg-[url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22%2394a3b8%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Cpath%20d%3D%22m6%209%206%206%206-6%22%2F%3E%3C%2Fsvg%3E')] bg-[length:16px] bg-[right_12px_center] bg-no-repeat pr-10;
+}
+
+/* -- Buttons -- */
+.btn-primary {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-600 px-5 py-2.5 text-sm font-semibold text-white
+    shadow-sm transition-all duration-150
+    hover:bg-brand-700 hover:shadow-md
+    active:scale-[0.98]
+    disabled:cursor-not-allowed disabled:bg-slate-200 disabled:text-slate-400 disabled:shadow-none;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl border border-slate-200 bg-white px-4 py-2.5 text-sm font-medium text-slate-700
+    shadow-sm transition-all duration-150
+    hover:bg-slate-50 hover:border-slate-300
+    active:scale-[0.98]
+    disabled:cursor-not-allowed disabled:opacity-50;
+}
+
+.btn-ghost {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-medium text-slate-600
+    transition-all duration-150
+    hover:bg-slate-100 hover:text-slate-900
+    active:scale-[0.98];
+}
+
+/* -- Skeleton shimmer -- */
+.skeleton {
+  @apply animate-shimmer rounded-xl bg-slate-200/70;
+}
+
+/* -- Badge -- */
+.badge {
+  @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-2xs font-semibold tracking-wide;
+}
+
+.badge-blue {
+  @apply badge bg-brand-50 text-brand-700;
+}
+
+.badge-green {
+  @apply badge bg-emerald-50 text-emerald-700;
+}
+
+.badge-amber {
+  @apply badge bg-amber-50 text-amber-700;
+}
+
+.badge-rose {
+  @apply badge bg-rose-50 text-rose-700;
+}
+
+/* -- Smooth page transitions -- */
+.animate-in {
+  @apply animate-fade-in;
+}
+
+/* -- Scrollbar -- */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-slate-200;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-slate-300;
+}
+
+/* -- Focus visible -- */
+*:focus-visible {
+  @apply outline-2 outline-offset-2 outline-brand-500;
+}

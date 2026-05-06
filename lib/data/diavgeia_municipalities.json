@@ -1,0 +1,2028 @@
+{
+  "generatedAt": "2026-04-26",
+  "count": 337,
+  "municipalities": [
+    {
+      "uid": "6226",
+      "label": "ΔΗΜΟ ΑΡΓΟΥΣ ΟΡΕΣΤΙΚΟΥ",
+      "vatNumber": "099295879",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100035023",
+      "label": "ΔΗΜΟΣ  ΝΕΑΣ  ΦΙΛΑΔΕΛΦΕΙΑΣ - ΝΕΑΣ ΧΑΛΚΗΔΟΝΑΣ",
+      "vatNumber": "997588219",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6195",
+      "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+      "vatNumber": "997744454",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6001",
+      "label": "ΔΗΜΟΣ ΑΒΔΗΡΩΝ",
+      "vatNumber": "997615158",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6002",
+      "label": "ΔΗΜΟΣ ΑΓΑΘΟΝΗΣΙΟΥ",
+      "vatNumber": "090098820",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6003",
+      "label": "ΔΗΜΟΣ ΑΓΙΑΣ",
+      "vatNumber": "099711740",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6004",
+      "label": "ΔΗΜΟΣ ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ",
+      "vatNumber": "090338714",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6005",
+      "label": "ΔΗΜΟΣ ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
+      "vatNumber": "090085626",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6006",
+      "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
+      "vatNumber": "997820848",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6007",
+      "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+      "vatNumber": "090317374",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6008",
+      "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΕΥΣΤΡΑΤΙΟΥ",
+      "vatNumber": "090390252",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6009",
+      "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+      "vatNumber": "998396742",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6010",
+      "label": "ΔΗΜΟΣ ΑΓΚΙΣΤΡΙΟΥ",
+      "vatNumber": "090046940",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6011",
+      "label": "ΔΗΜΟΣ ΑΓΡΑΦΩΝ",
+      "vatNumber": "998895727",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6012",
+      "label": "ΔΗΜΟΣ ΑΓΡΙΝΙΟΥ",
+      "vatNumber": "997699780",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6013",
+      "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+      "vatNumber": "090025537",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6014",
+      "label": "ΔΗΜΟΣ ΑΙΓΑΛΕΩ",
+      "vatNumber": "090197140",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6015",
+      "label": "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
+      "vatNumber": "997934121",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6016",
+      "label": "ΔΗΜΟΣ ΑΙΓΙΝΑΣ",
+      "vatNumber": "090046938",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6017",
+      "label": "ΔΗΜΟΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ",
+      "vatNumber": "099202692",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6018",
+      "label": "ΔΗΜΟΣ ΑΛΕΞΑΝΔΡΕΙΑΣ",
+      "vatNumber": "997813777",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6019",
+      "label": "ΔΗΜΟΣ ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ",
+      "vatNumber": "997712303",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6020",
+      "label": "ΔΗΜΟΣ ΑΛΙΑΡΤΟΥ",
+      "vatNumber": "998016252",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6021",
+      "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+      "vatNumber": "090261546",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6022",
+      "label": "ΔΗΜΟΣ ΑΛΜΥΡΟΥ",
+      "vatNumber": "998230533",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6023",
+      "label": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ",
+      "vatNumber": "997600077",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6024",
+      "label": "ΔΗΜΟΣ ΑΛΟΝΝΗΣΟΥ",
+      "vatNumber": "090101041",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6025",
+      "label": "ΔΗΜΟΣ ΑΜΑΡΙΟΥ",
+      "vatNumber": "997820873",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6026",
+      "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+      "vatNumber": "090312495",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6027",
+      "label": "ΔΗΜΟΣ ΑΜΟΡΓΟΥ",
+      "vatNumber": "090256954",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6028",
+      "label": "ΔΗΜΟΣ ΑΜΠΕΛΟΚΗΠΩΝ - ΜΕΝΕΜΕΝΗΣ",
+      "vatNumber": "997742400",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6029",
+      "label": "ΔΗΜΟΣ ΑΜΥΝΤΑΙΟΥ",
+      "vatNumber": "999108285",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6030",
+      "label": "ΔΗΜΟΣ ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ",
+      "vatNumber": "800067050",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6031",
+      "label": "ΔΗΜΟΣ ΑΜΦΙΛΟΧΙΑΣ",
+      "vatNumber": "998786086",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6032",
+      "label": "ΔΗΜΟΣ ΑΜΦΙΠΟΛΗΣ",
+      "vatNumber": "800246874",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6033",
+      "label": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+      "vatNumber": "800092832",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049544",
+      "label": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΣΑΜΟΥ",
+      "vatNumber": "997966689",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6034",
+      "label": "ΔΗΜΟΣ ΑΝΑΦΗΣ",
+      "vatNumber": "090156248",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6035",
+      "label": "ΔΗΜΟΣ ΑΝΔΡΑΒΙΔΑΣ - ΚΥΛΛΗΝΗΣ",
+      "vatNumber": "099154390",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6036",
+      "label": "ΔΗΜΟΣ ΑΝΔΡΙΤΣΑΙΝΑΣ - ΚΡΕΣΤΕΝΩΝ",
+      "vatNumber": "800166075",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6037",
+      "label": "ΔΗΜΟΣ ΑΝΔΡΟΥ",
+      "vatNumber": "998239700",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6038",
+      "label": "ΔΗΜΟΣ ΑΝΤΙΠΑΡΟΥ",
+      "vatNumber": "999247040",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6039",
+      "label": "ΔΗΜΟΣ ΑΝΩΓΕΙΩΝ",
+      "vatNumber": "090034939",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6040",
+      "label": "ΔΗΜΟΣ ΑΠΟΚΟΡΩΝΟΥ",
+      "vatNumber": "997570100",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6041",
+      "label": "ΔΗΜΟΣ ΑΡΓΙΘΕΑΣ",
+      "vatNumber": "800231953",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049102",
+      "label": "ΔΗΜΟΣ ΑΡΓΟΣΤΟΛΙΟΥ",
+      "vatNumber": "997627133",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6042",
+      "label": "ΔΗΜΟΣ ΑΡΓΟΥΣ - ΜΥΚΗΝΩΝ",
+      "vatNumber": "998177895",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6043",
+      "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+      "vatNumber": "998744730",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6044",
+      "label": "ΔΗΜΟΣ ΑΡΡΙΑΝΩΝ",
+      "vatNumber": "800281919",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6045",
+      "label": "ΔΗΜΟΣ ΑΡΤΑΙΩΝ",
+      "vatNumber": "997681820",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6046",
+      "label": "ΔΗΜΟΣ ΑΡΧΑΙΑΣ ΟΛΥΜΠΙΑΣ",
+      "vatNumber": "997851051",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6047",
+      "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+      "vatNumber": "997579303",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6048",
+      "label": "ΔΗΜΟΣ ΑΣΠΡΟΠΥΡΓΟΥ",
+      "vatNumber": "090182414",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6049",
+      "label": "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
+      "vatNumber": "090001146",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6050",
+      "label": "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
+      "vatNumber": "997833057",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6051",
+      "label": "ΔΗΜΟΣ ΒΑΡΗΣ - ΒΟΥΛΑΣ - ΒΟΥΛΙΑΓΜΕΝΗΣ",
+      "vatNumber": "997573323",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100048875",
+      "label": "ΔΗΜΟΣ ΒΕΛΒΕΝΤΟΥ",
+      "vatNumber": "996877610",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6052",
+      "label": "ΔΗΜΟΣ ΒΕΛΟΥ - ΒΟΧΑΣ",
+      "vatNumber": "997860963",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6053",
+      "label": "ΔΗΜΟΣ ΒΕΡΟΙΑΣ",
+      "vatNumber": "997973841",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6054",
+      "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+      "vatNumber": "099281144",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6055",
+      "label": "ΔΗΜΟΣ ΒΙΣΑΛΤΙΑΣ",
+      "vatNumber": "998020646",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6056",
+      "label": "ΔΗΜΟΣ ΒΟΙΟΥ",
+      "vatNumber": "998059393",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6057",
+      "label": "ΔΗΜΟΣ ΒΟΛΒΗΣ",
+      "vatNumber": "998246635",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6058",
+      "label": "ΔΗΜΟΣ ΒΟΛΟΥ",
+      "vatNumber": "997898793",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049339",
+      "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΕΡΚΥΡΑΣ",
+      "vatNumber": "996832390",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6059",
+      "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+      "vatNumber": "090171227",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6060",
+      "label": "ΔΗΜΟΣ ΒΟΡΕΙΩΝ ΤΖΟΥΜΕΡΚΩΝ",
+      "vatNumber": "997854446",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6061",
+      "label": "ΔΗΜΟΣ ΒΡΙΛΗΣΣΙΩΝ",
+      "vatNumber": "090160342",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6062",
+      "label": "ΔΗΜΟΣ ΒΥΡΩΝΟΣ",
+      "vatNumber": "090296835",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6063",
+      "label": "ΔΗΜΟΣ ΓΑΛΑΤΣΙΟΥ",
+      "vatNumber": "090198370",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6064",
+      "label": "ΔΗΜΟΣ ΓΑΥΔΟΥ",
+      "vatNumber": "099506116",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6065",
+      "label": "ΔΗΜΟΣ ΓΕΩΡΓΙΟΥ ΚΑΡΑΙΣΚΑΚΗ",
+      "vatNumber": "997681832",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6066",
+      "label": "ΔΗΜΟΣ ΓΛΥΦΑΔΑΣ",
+      "vatNumber": "090052400",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6067",
+      "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΑΣ",
+      "vatNumber": "999174215",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6068",
+      "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+      "vatNumber": "800100885",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6069",
+      "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+      "vatNumber": "997921832",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6070",
+      "label": "ΔΗΜΟΣ ΔΑΦΝΗΣ - ΥΜΗΤΤΟΥ",
+      "vatNumber": "998607826",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6071",
+      "label": "ΔΗΜΟΣ ΔΕΛΤΑ",
+      "vatNumber": "997630659",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6072",
+      "label": "ΔΗΜΟΣ ΔΕΛΦΩΝ",
+      "vatNumber": "998592151",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6073",
+      "label": "ΔΗΜΟΣ ΔΕΣΚΑΤΗΣ",
+      "vatNumber": "099573325",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6074",
+      "label": "ΔΗΜΟΣ ΔΙΔΥΜΟΤΕΙΧΟΥ",
+      "vatNumber": "800107980",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6075",
+      "label": "ΔΗΜΟΣ ΔΙΟΝΥΣΟΥ",
+      "vatNumber": "997690910",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6076",
+      "label": "ΔΗΜΟΣ ΔΙΟΥ - ΟΛΥΜΠΟΥ",
+      "vatNumber": "997766391",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6077",
+      "label": "ΔΗΜΟΣ ΔΙΡΦΥΩΝ - ΜΕΣΣΑΠΙΩΝ",
+      "vatNumber": "997591330",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6078",
+      "label": "ΔΗΜΟΣ ΔΙΣΤΟΜΟΥ-ΑΡΑΧΟΒΑΣ - ΑΝΤΙΚΥΡΑΣ",
+      "vatNumber": "998016264",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6079",
+      "label": "ΔΗΜΟΣ ΔΟΜΟΚΟΥ",
+      "vatNumber": "800111783",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6080",
+      "label": "ΔΗΜΟΣ ΔΟΞΑΤΟΥ",
+      "vatNumber": "997784913",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6081",
+      "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+      "vatNumber": "997784894",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6082",
+      "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΑΧΑΙΑΣ",
+      "vatNumber": "998751013",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049040",
+      "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΛΕΣΒΟΥ",
+      "vatNumber": "996959690",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6083",
+      "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΜΑΝΗΣ",
+      "vatNumber": "997911980",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049554",
+      "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΣΑΜΟΥ",
+      "vatNumber": "996991756",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6084",
+      "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+      "vatNumber": "997854471",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6085",
+      "label": "ΔΗΜΟΣ ΔΩΡΙΔΟΣ",
+      "vatNumber": "800196610",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6086",
+      "label": "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+      "vatNumber": "998721868",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6087",
+      "label": "ΔΗΜΟΣ ΕΛΑΣΣΟΝΑΣ",
+      "vatNumber": "999254983",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6088",
+      "label": "ΔΗΜΟΣ ΕΛΑΦΟΝΗΣΟΥ",
+      "vatNumber": "099176123",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6089",
+      "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+      "vatNumber": "997763874",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6090",
+      "label": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+      "vatNumber": "997645384",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6091",
+      "label": "ΔΗΜΟΣ ΕΜΜΑΝΟΥΗΛ ΠΑΠΠΑ",
+      "vatNumber": "998979241",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6092",
+      "label": "ΔΗΜΟΣ ΕΟΡΔΑΙΑΣ",
+      "vatNumber": "998054361",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6093",
+      "label": "ΔΗΜΟΣ ΕΠΙΔΑΥΡΟΥ",
+      "vatNumber": "998142373",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6094",
+      "label": "ΔΗΜΟΣ ΕΡΕΤΡΙΑΣ",
+      "vatNumber": "997591328",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6095",
+      "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+      "vatNumber": "997609152",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6096",
+      "label": "ΔΗΜΟΣ ΕΡΥΜΑΝΘΟΥ",
+      "vatNumber": "997748035",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6097",
+      "label": "ΔΗΜΟΣ ΕΥΡΩΤΑ",
+      "vatNumber": "099652457",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6098",
+      "label": "ΔΗΜΟΣ ΖΑΓΟΡΑΣ - ΜΟΥΡΕΣΙΟΥ",
+      "vatNumber": "997898781",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6099",
+      "label": "ΔΗΜΟΣ ΖΑΓΟΡΙΟΥ",
+      "vatNumber": "997854483",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6100",
+      "label": "ΔΗΜΟΣ ΖΑΚΥΝΘΟΥ",
+      "vatNumber": "998199586",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6101",
+      "label": "ΔΗΜΟΣ ΖΑΧΑΡΩΣ",
+      "vatNumber": "800121230",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6102",
+      "label": "ΔΗΜΟΣ ΖΗΡΟΥ",
+      "vatNumber": "099229170",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6103",
+      "label": "ΔΗΜΟΣ ΖΙΤΣΑΣ",
+      "vatNumber": "997854502",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6104",
+      "label": "ΔΗΜΟΣ ΖΩΓΡΑΦΟΥ",
+      "vatNumber": "090276406",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6105",
+      "label": "ΔΗΜΟΣ ΗΓΟΥΜΕΝΙΤΣΑΣ",
+      "vatNumber": "997925241",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6106",
+      "label": "ΔΗΜΟΣ ΗΛΙΔΑΣ",
+      "vatNumber": "800064187",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6107",
+      "label": "ΔΗΜΟΣ ΗΛΙΟΥΠΟΛΗΣ",
+      "vatNumber": "090206453",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6108",
+      "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+      "vatNumber": "099211572",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6109",
+      "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+      "vatNumber": "090084629",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6325",
+      "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+      "vatNumber": "997579296",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6110",
+      "label": "ΔΗΜΟΣ ΘΑΣΟΥ",
+      "vatNumber": "090400016",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6111",
+      "label": "ΔΗΜΟΣ ΘΕΡΜΑΙΚΟΥ",
+      "vatNumber": "997567090",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6112",
+      "label": "ΔΗΜΟΣ ΘΕΡΜΗΣ",
+      "vatNumber": "997612550",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6113",
+      "label": "ΔΗΜΟΣ ΘΕΡΜΟΥ",
+      "vatNumber": "090134385",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6114",
+      "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+      "vatNumber": "998082845",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6115",
+      "label": "ΔΗΜΟΣ ΘΗΒΑΙΩΝ",
+      "vatNumber": "997597230",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6116",
+      "label": "ΔΗΜΟΣ ΘΗΡΑΣ",
+      "vatNumber": "997877331",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6117",
+      "label": "ΔΗΜΟΣ ΙΑΣΜΟΥ",
+      "vatNumber": "997687953",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6118",
+      "label": "ΔΗΜΟΣ ΙΕΡΑΠΕΤΡΑΣ",
+      "vatNumber": "997696347",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6119",
+      "label": "ΔΗΜΟΣ ΙΕΡΑΣ ΠΟΛΗΣ ΜΕΣΟΛΟΓΓΙΟΥ",
+      "vatNumber": "998505846",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6120",
+      "label": "ΔΗΜΟΣ ΙΗΤΩΝ",
+      "vatNumber": "090383027",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6121",
+      "label": "ΔΗΜΟΣ ΙΘΑΚΗΣ",
+      "vatNumber": "090125733",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6122",
+      "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+      "vatNumber": "800057485",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6123",
+      "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+      "vatNumber": "090076918",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6124",
+      "label": "ΔΗΜΟΣ ΙΣΤΙΑΙΑΣ - ΑΙΔΗΨΟΥ",
+      "vatNumber": "800139036",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6125",
+      "label": "ΔΗΜΟΣ ΙΩΑΝΝΙΤΩΝ",
+      "vatNumber": "997908926",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6126",
+      "label": "ΔΗΜΟΣ ΚΑΒΑΛΑΣ",
+      "vatNumber": "997582067",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6127",
+      "label": "ΔΗΜΟΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+      "vatNumber": "099116022",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6128",
+      "label": "ΔΗΜΟΣ ΚΑΛΑΒΡΥΤΩΝ",
+      "vatNumber": "800141173",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6129",
+      "label": "ΔΗΜΟΣ ΚΑΛΑΜΑΡΙΑΣ",
+      "vatNumber": "090226243",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6130",
+      "label": "ΔΗΜΟΣ ΚΑΛΑΜΑΤΑΣ",
+      "vatNumber": "997911992",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6132",
+      "label": "ΔΗΜΟΣ ΚΑΛΛΙΘΕΑΣ",
+      "vatNumber": "090001251",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6133",
+      "label": "ΔΗΜΟΣ ΚΑΛΥΜΝΙΩΝ",
+      "vatNumber": "090001122",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6202",
+      "label": "ΔΗΜΟΣ ΚΑΜΕΝΩΝ ΒΟΥΡΛΩΝ",
+      "vatNumber": "997947687",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6134",
+      "label": "ΔΗΜΟΣ ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
+      "vatNumber": "997570070",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6135",
+      "label": "ΔΗΜΟΣ ΚΑΡΔΙΤΣΑΣ",
+      "vatNumber": "997648454",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6136",
+      "label": "ΔΗΜΟΣ ΚΑΡΠΑΘΟΥ",
+      "vatNumber": "099688245",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6137",
+      "label": "ΔΗΜΟΣ ΚΑΡΠΕΝΗΣΙΟΥ",
+      "vatNumber": "998895715",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6138",
+      "label": "ΔΗΜΟΣ ΚΑΡΥΣΤΟΥ",
+      "vatNumber": "998041445",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6139",
+      "label": "ΔΗΜΟΣ ΚΑΣΟΥ",
+      "vatNumber": "099686080",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6140",
+      "label": "ΔΗΜΟΣ ΚΑΣΣΑΝΔΡΑΣ",
+      "vatNumber": "998204472",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6141",
+      "label": "ΔΗΜΟΣ ΚΑΣΤΟΡΙΑΣ",
+      "vatNumber": "997840976",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6142",
+      "label": "ΔΗΜΟΣ ΚΑΤΕΡΙΝΗΣ",
+      "vatNumber": "998066810",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6143",
+      "label": "ΔΗΜΟΣ ΚΑΤΩ ΝΕΥΡΟΚΟΠΙΟΥ",
+      "vatNumber": "090212982",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6144",
+      "label": "ΔΗΜΟΣ ΚΕΑΣ",
+      "vatNumber": "090116331",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049209",
+      "label": "ΔΗΜΟΣ ΚΕΝΤΡΙΚΗΣ ΚΕΡΚΥΡΑΣ ΚΑΙ ΔΙΑΠΟΝΤΙΩΝ ΝΗΣΩΝ",
+      "vatNumber": "997913727",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6145",
+      "label": "ΔΗΜΟΣ ΚΕΝΤΡΙΚΩΝ ΤΖΟΥΜΕΡΚΩΝ",
+      "vatNumber": "997681807",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6146",
+      "label": "ΔΗΜΟΣ ΚΕΡΑΤΣΙΝΙΟΥ - ΔΡΑΠΕΤΣΩΝΑΣ",
+      "vatNumber": "997880950",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6147",
+      "label": "ΔΗΜΟΣ ΚΕΡΚΥΡΑΣ",
+      "vatNumber": "997913727",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6148",
+      "label": "ΔΗΜΟΣ ΚΕΦΑΛΟΝΙΑΣ",
+      "vatNumber": "997627133",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6149",
+      "label": "ΔΗΜΟΣ ΚΗΦΙΣΙΑΣ",
+      "vatNumber": "997715679",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6150",
+      "label": "ΔΗΜΟΣ ΚΙΛΕΛΕΡ",
+      "vatNumber": "998223751",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6151",
+      "label": "ΔΗΜΟΣ ΚΙΛΚΙΣ",
+      "vatNumber": "997961749",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6152",
+      "label": "ΔΗΜΟΣ ΚΙΜΩΛΟΥ",
+      "vatNumber": "090354683",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6153",
+      "label": "ΔΗΜΟΣ ΚΙΣΣΑΜΟΥ",
+      "vatNumber": "997738238",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6154",
+      "label": "ΔΗΜΟΣ ΚΟΖΑΝΗΣ",
+      "vatNumber": "997769577",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6155",
+      "label": "ΔΗΜΟΣ ΚΟΜΟΤΗΝΗΣ",
+      "vatNumber": "997687930",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6156",
+      "label": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ",
+      "vatNumber": "800161749",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6157",
+      "label": "ΔΗΜΟΣ ΚΟΡΔΕΛΙΟΥ - ΕΥΟΣΜΟΥ",
+      "vatNumber": "997742450",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6158",
+      "label": "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+      "vatNumber": "997860951",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6159",
+      "label": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+      "vatNumber": "090116054",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6160",
+      "label": "ΔΗΜΟΣ ΚΡΩΠΙΑΣ",
+      "vatNumber": "090125604",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6161",
+      "label": "ΔΗΜΟΣ ΚΥΘΗΡΩΝ",
+      "vatNumber": "099723332",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6162",
+      "label": "ΔΗΜΟΣ ΚΥΘΝΟΥ",
+      "vatNumber": "090410925",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6163",
+      "label": "ΔΗΜΟΣ ΚΥΜΗΣ - ΑΛΙΒΕΡΙΟΥ",
+      "vatNumber": "997723692",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6164",
+      "label": "ΔΗΜΟΣ ΚΩ",
+      "vatNumber": "997918919",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6165",
+      "label": "ΔΗΜΟΣ ΛΑΓΚΑΔΑ",
+      "vatNumber": "998246659",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6166",
+      "label": "ΔΗΜΟΣ ΛΑΜΙΕΩΝ",
+      "vatNumber": "997947640",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6167",
+      "label": "ΔΗΜΟΣ ΛΑΡΙΣΑΙΩΝ",
+      "vatNumber": "997844860",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6168",
+      "label": "ΔΗΜΟΣ ΛΑΥΡΕΩΤΙΚΗΣ",
+      "vatNumber": "998292246",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6169",
+      "label": "ΔΗΜΟΣ ΛΕΒΑΔΕΩΝ",
+      "vatNumber": "998016227",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6170",
+      "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+      "vatNumber": "090025549",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6171",
+      "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+      "vatNumber": "090001134",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6172",
+      "label": "ΔΗΜΟΣ ΛΕΣΒΟΥ",
+      "vatNumber": "997817113",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6173",
+      "label": "ΔΗΜΟΣ ΛΕΥΚΑΔΑΣ",
+      "vatNumber": "997916281",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6174",
+      "label": "ΔΗΜΟΣ ΛΗΜΝΟΥ",
+      "vatNumber": "800189144",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049127",
+      "label": "ΔΗΜΟΣ ΛΗΞΟΥΡΙΟΥ",
+      "vatNumber": "996937703",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6175",
+      "label": "ΔΗΜΟΣ ΛΙΜΝΗΣ ΠΛΑΣΤΗΡΑ",
+      "vatNumber": "997648480",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6176",
+      "label": "ΔΗΜΟΣ ΛΟΚΡΩΝ",
+      "vatNumber": "998441139",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6177",
+      "label": "ΔΗΜΟΣ ΛΟΥΤΡΑΚΙΟΥ - ΠΕΡΑΧΩΡΑΣ - ΑΓΙΩΝ ΘΕΟΔΩΡΩΝ",
+      "vatNumber": "997860940",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6178",
+      "label": "ΔΗΜΟΣ ΛΥΚΟΒΡΥΣΗΣ - ΠΕΥΚΗΣ",
+      "vatNumber": "997625190",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6179",
+      "label": "ΔΗΜΟΣ ΜΑΚΡΑΚΩΜΗΣ",
+      "vatNumber": "800206956",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6180",
+      "label": "ΔΗΜΟΣ ΜΑΛΕΒΙΖΙΟΥ",
+      "vatNumber": "997791639",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6181",
+      "label": "ΔΗΜΟΣ ΜΑΝΔΡΑΣ - ΕΙΔΥΛΛΙΑΣ",
+      "vatNumber": "997763886",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6182",
+      "label": "ΔΗΜΟΣ ΜΑΝΤΟΥΔΙΟΥ - ΛΙΜΝΗΣ - ΑΓΙΑΣ ΑΝΝΑΣ",
+      "vatNumber": "800202091",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6183",
+      "label": "ΔΗΜΟΣ ΜΑΡΑΘΩΝΟΣ",
+      "vatNumber": "997606752",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6184",
+      "label": "ΔΗΜΟΣ ΜΑΡΚΟΠΟΥΛΟΥ ΜΕΣΟΓΑΙΑΣ",
+      "vatNumber": "090125500",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6185",
+      "label": "ΔΗΜΟΣ ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ",
+      "vatNumber": "800281907",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6186",
+      "label": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+      "vatNumber": "998260826",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6187",
+      "label": "ΔΗΜΟΣ ΜΕΓΑΝΗΣΙΟΥ",
+      "vatNumber": "090134594",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6188",
+      "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+      "vatNumber": "997693310",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6189",
+      "label": "ΔΗΜΟΣ ΜΕΓΙΣΤΗΣ",
+      "vatNumber": "090319214",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6190",
+      "label": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ",
+      "vatNumber": "998762513",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6191",
+      "label": "ΔΗΜΟΣ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+      "vatNumber": "090107358",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100062933",
+      "label": "ΔΗΜΟΣ ΜΕΤΕΩΡΩΝ",
+      "vatNumber": "998753608",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6192",
+      "label": "ΔΗΜΟΣ ΜΕΤΣΟΒΟΥ",
+      "vatNumber": "800220963",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6193",
+      "label": "ΔΗΜΟΣ ΜΗΛΟΥ",
+      "vatNumber": "090281858",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6194",
+      "label": "ΔΗΜΟΣ ΜΙΝΩΑ ΠΕΔΙΑΔΑΣ",
+      "vatNumber": "099285315",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6196",
+      "label": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ",
+      "vatNumber": "998717658",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6197",
+      "label": "ΔΗΜΟΣ ΜΟΣΧΑΤΟΥ - ΤΑΥΡΟΥ",
+      "vatNumber": "997564129",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6198",
+      "label": "ΔΗΜΟΣ ΜΟΥΖΑΚΙΟΥ",
+      "vatNumber": "800231941",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6199",
+      "label": "ΔΗΜΟΣ ΜΥΚΗΣ",
+      "vatNumber": "997615160",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6200",
+      "label": "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
+      "vatNumber": "090235079",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6201",
+      "label": "ΔΗΜΟΣ ΜΥΛΟΠΟΤΑΜΟΥ",
+      "vatNumber": "997820850",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049029",
+      "label": "ΔΗΜΟΣ ΜΥΤΙΛΗΝΗΣ",
+      "vatNumber": "997817113",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6203",
+      "label": "ΔΗΜΟΣ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+      "vatNumber": "997558031",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6204",
+      "label": "ΔΗΜΟΣ ΝΑΟΥΣΑΣ",
+      "vatNumber": "998841450",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6205",
+      "label": "ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ",
+      "vatNumber": "998517151",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6206",
+      "label": "ΔΗΜΟΣ ΝΑΥΠΛΙΕΩΝ",
+      "vatNumber": "998142361",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6207",
+      "label": "ΔΗΜΟΣ ΝΕΑΠΟΛΗΣ - ΣΥΚΕΩΝ",
+      "vatNumber": "998502113",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6208",
+      "label": "ΔΗΜΟΣ ΝΕΑΣ ΖΙΧΝΗΣ",
+      "vatNumber": "800246886",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6209",
+      "label": "ΔΗΜΟΣ ΝΕΑΣ ΙΩΝΙΑΣ",
+      "vatNumber": "090127044",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6210",
+      "label": "ΔΗΜΟΣ ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
+      "vatNumber": "998529948",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6211",
+      "label": "ΔΗΜΟΣ ΝΕΑΣ ΣΜΥΡΝΗΣ",
+      "vatNumber": "099041081",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6212",
+      "label": "ΔΗΜΟΣ ΝΕΜΕΑΣ",
+      "vatNumber": "090398932",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6213",
+      "label": "ΔΗΜΟΣ ΝΕΣΤΟΡΙΟΥ",
+      "vatNumber": "800255883",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6214",
+      "label": "ΔΗΜΟΣ ΝΕΣΤΟΥ",
+      "vatNumber": "999198944",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6215",
+      "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+      "vatNumber": "997642253",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6216",
+      "label": "ΔΗΜΟΣ ΝΙΚΟΛΑΟΥ ΣΚΟΥΦΑ",
+      "vatNumber": "997681819",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6217",
+      "label": "ΔΗΜΟΣ ΝΙΣΥΡΟΥ",
+      "vatNumber": "099269211",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049235",
+      "label": "ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΕΡΚΥΡΑΣ",
+      "vatNumber": "996832376",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6218",
+      "label": "ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+      "vatNumber": "099165551",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6219",
+      "label": "ΔΗΜΟΣ ΝΟΤΙΟΥ ΠΗΛΙΟΥ",
+      "vatNumber": "997898770",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6220",
+      "label": "ΔΗΜΟΣ ΞΑΝΘΗΣ",
+      "vatNumber": "997654473",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6221",
+      "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+      "vatNumber": "800076242",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6222",
+      "label": "ΔΗΜΟΣ ΞΥΛΟΚΑΣΤΡΟΥ - ΕΥΡΩΣΤΙΝΗΣ",
+      "vatNumber": "800262468",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6223",
+      "label": "ΔΗΜΟΣ ΟΙΝΟΥΣΣΩΝ",
+      "vatNumber": "090380572",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6224",
+      "label": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+      "vatNumber": "099184497",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6225",
+      "label": "ΔΗΜΟΣ ΟΡΕΣΤΙΑΔΑΣ",
+      "vatNumber": "998583210",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6227",
+      "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+      "vatNumber": "090360500",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6228",
+      "label": "ΔΗΜΟΣ ΟΡΧΟΜΕΝΟΥ",
+      "vatNumber": "998016240",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6229",
+      "label": "ΔΗΜΟΣ ΠΑΓΓΑΙΟΥ",
+      "vatNumber": "997732707",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6230",
+      "label": "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ",
+      "vatNumber": "997727390",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6231",
+      "label": "ΔΗΜΟΣ ΠΑΙΟΝΙΑΣ",
+      "vatNumber": "997961713",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6232",
+      "label": "ΔΗΜΟΣ ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
+      "vatNumber": "090261509",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6233",
+      "label": "ΔΗΜΟΣ ΠΑΛΑΜΑ",
+      "vatNumber": "998608743",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6234",
+      "label": "ΔΗΜΟΣ ΠΑΛΛΗΝΗΣ",
+      "vatNumber": "997606696",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6235",
+      "label": "ΔΗΜΟΣ ΠΑΞΩΝ",
+      "vatNumber": "090114939",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6236",
+      "label": "ΔΗΜΟΣ ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ",
+      "vatNumber": "998154279",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6237",
+      "label": "ΔΗΜΟΣ ΠΑΡΑΝΕΣΤΙΟΥ",
+      "vatNumber": "997784901",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6238",
+      "label": "ΔΗΜΟΣ ΠΑΡΓΑΣ",
+      "vatNumber": "997963210",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6239",
+      "label": "ΔΗΜΟΣ ΠΑΡΟΥ",
+      "vatNumber": "097664995",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6240",
+      "label": "ΔΗΜΟΣ ΠΑΤΜΟΥ",
+      "vatNumber": "090001110",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6241",
+      "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+      "vatNumber": "997992450",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6242",
+      "label": "ΔΗΜΟΣ ΠΑΥΛΟΥ ΜΕΛΑ",
+      "vatNumber": "997989617",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6243",
+      "label": "ΔΗΜΟΣ ΠΕΙΡΑΙΩΣ",
+      "vatNumber": "090001263",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6244",
+      "label": "ΔΗΜΟΣ ΠΕΛΛΑΣ",
+      "vatNumber": "998010099",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6245",
+      "label": "ΔΗΜΟΣ ΠΕΝΤΕΛΗΣ",
+      "vatNumber": "997625176",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6246",
+      "label": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ",
+      "vatNumber": "099077446",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6247",
+      "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+      "vatNumber": "090094082",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6248",
+      "label": "ΔΗΜΟΣ ΠΕΤΡΟΥΠΟΛΗΣ",
+      "vatNumber": "090137535",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6249",
+      "label": "ΔΗΜΟΣ ΠΗΝΕΙΟΥ",
+      "vatNumber": "099663921",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6250",
+      "label": "ΔΗΜΟΣ ΠΛΑΤΑΝΙΑ",
+      "vatNumber": "997570112",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6251",
+      "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+      "vatNumber": "998493345",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6252",
+      "label": "ΔΗΜΟΣ ΠΟΡΟΥ",
+      "vatNumber": "090120842",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6253",
+      "label": "ΔΗΜΟΣ ΠΡΕΒΕΖΑΣ",
+      "vatNumber": "997861879",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6254",
+      "label": "ΔΗΜΟΣ ΠΡΕΣΠΩΝ",
+      "vatNumber": "998565714",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6255",
+      "label": "ΔΗΜΟΣ ΠΡΟΣΟΤΣΑΝΗΣ",
+      "vatNumber": "997784882",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6256",
+      "label": "ΔΗΜΟΣ ΠΥΔΝΑΣ - ΚΟΛΙΝΔΡΟΥ",
+      "vatNumber": "099607100",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6257",
+      "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+      "vatNumber": "997612469",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6258",
+      "label": "ΔΗΜΟΣ ΠΥΛΗΣ",
+      "vatNumber": "998284560",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6259",
+      "label": "ΔΗΜΟΣ ΠΥΛΟΥ - ΝΕΣΤΟΡΟΣ",
+      "vatNumber": "099685753",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6260",
+      "label": "ΔΗΜΟΣ ΠΥΡΓΟΥ",
+      "vatNumber": "997851040",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6261",
+      "label": "ΔΗΜΟΣ ΠΩΓΩΝΙΟΥ",
+      "vatNumber": "997854458",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6262",
+      "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+      "vatNumber": "997606703",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6263",
+      "label": "ΔΗΜΟΣ ΡΕΘΥΜΝΗΣ",
+      "vatNumber": "997820861",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6264",
+      "label": "ΔΗΜΟΣ ΡΗΓΑ ΦΕΡΑΙΟΥ",
+      "vatNumber": "997708302",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6265",
+      "label": "ΔΗΜΟΣ ΡΟΔΟΥ",
+      "vatNumber": "997561152",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6266",
+      "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+      "vatNumber": "998378908",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100049133",
+      "label": "ΔΗΜΟΣ ΣΑΜΗΣ",
+      "vatNumber": "996937715",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6267",
+      "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+      "vatNumber": "090072723",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6268",
+      "label": "ΔΗΜΟΣ ΣΑΜΟΥ",
+      "vatNumber": "997966689",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6269",
+      "label": "ΔΗΜΟΣ ΣΑΡΩΝΙΚΟΥ",
+      "vatNumber": "997727408",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100048870",
+      "label": "ΔΗΜΟΣ ΣΕΡΒΙΩΝ",
+      "vatNumber": "099580746",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6271",
+      "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+      "vatNumber": "090281914",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6272",
+      "label": "ΔΗΜΟΣ ΣΕΡΡΩΝ",
+      "vatNumber": "997657764",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6273",
+      "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+      "vatNumber": "998792831",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6274",
+      "label": "ΔΗΜΟΣ ΣΙΘΩΝΙΑΣ",
+      "vatNumber": "998493357",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6275",
+      "label": "ΔΗΜΟΣ ΣΙΚΙΝΟΥ",
+      "vatNumber": "099638358",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6276",
+      "label": "ΔΗΜΟΣ ΣΙΚΥΩΝΙΩΝ",
+      "vatNumber": "997636180",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6277",
+      "label": "ΔΗΜΟΣ ΣΙΝΤΙΚΗΣ",
+      "vatNumber": "999420013",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6278",
+      "label": "ΔΗΜΟΣ ΣΙΦΝΟΥ",
+      "vatNumber": "090354671",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6279",
+      "label": "ΔΗΜΟΣ ΣΚΙΑΘΟΥ",
+      "vatNumber": "090122675",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6280",
+      "label": "ΔΗΜΟΣ ΣΚΟΠΕΛΟΥ",
+      "vatNumber": "090101108",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6281",
+      "label": "ΔΗΜΟΣ ΣΚΥΔΡΑΣ",
+      "vatNumber": "998525359",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6282",
+      "label": "ΔΗΜΟΣ ΣΚΥΡΟΥ",
+      "vatNumber": "090183484",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6283",
+      "label": "ΔΗΜΟΣ ΣΟΥΛΙΟΥ",
+      "vatNumber": "099631382",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6284",
+      "label": "ΔΗΜΟΣ ΣΟΥΦΛΙΟΥ",
+      "vatNumber": "800287309",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6285",
+      "label": "ΔΗΜΟΣ ΣΟΦΑΔΩΝ",
+      "vatNumber": "099217841",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6286",
+      "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+      "vatNumber": "997892229",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6287",
+      "label": "ΔΗΜΟΣ ΣΠΑΤΩΝ - ΑΡΤΕΜΙΔΟΣ",
+      "vatNumber": "997606740",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6288",
+      "label": "ΔΗΜΟΣ ΣΠΕΤΣΩΝ",
+      "vatNumber": "090099540",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6289",
+      "label": "ΔΗΜΟΣ ΣΤΥΛΙΔΑΣ",
+      "vatNumber": "800297211",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6290",
+      "label": "ΔΗΜΟΣ ΣΥΜΗΣ",
+      "vatNumber": "090001183",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6291",
+      "label": "ΔΗΜΟΣ ΣΥΡΟΥ - ΕΡΜΟΥΠΟΛΗΣ",
+      "vatNumber": "998225756",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6292",
+      "label": "ΔΗΜΟΣ ΣΦΑΚΙΩΝ",
+      "vatNumber": "090326727",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6293",
+      "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+      "vatNumber": "997597228",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6294",
+      "label": "ΔΗΜΟΣ ΤΕΜΠΩΝ",
+      "vatNumber": "998019463",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6295",
+      "label": "ΔΗΜΟΣ ΤΗΛΟΥ",
+      "vatNumber": "090220343",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6296",
+      "label": "ΔΗΜΟΣ ΤΗΝΟΥ",
+      "vatNumber": "800302968",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6297",
+      "label": "ΔΗΜΟΣ ΤΟΠΕΙΡΟΥ",
+      "vatNumber": "090379296",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6298",
+      "label": "ΔΗΜΟΣ ΤΡΙΚΚΑΙΩΝ",
+      "vatNumber": "997830264",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6299",
+      "label": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+      "vatNumber": "998037407",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6300",
+      "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+      "vatNumber": "800173110",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6301",
+      "label": "ΔΗΜΟΣ ΤΡΟΙΖΗΝΙΑΣ - ΜΕΘΑΝΩΝ",
+      "vatNumber": "998257963",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6302",
+      "label": "ΔΗΜΟΣ ΤΥΡΝΑΒΟΥ",
+      "vatNumber": "998576300",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6303",
+      "label": "ΔΗΜΟΣ ΥΔΡΑΣ",
+      "vatNumber": "090120750",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6304",
+      "label": "ΔΗΜΟΣ ΦΑΙΣΤΟΥ",
+      "vatNumber": "999174227",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6305",
+      "label": "ΔΗΜΟΣ ΦΑΡΚΑΔΟΝΑΣ",
+      "vatNumber": "998698756",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6306",
+      "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+      "vatNumber": "998416991",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6308",
+      "label": "ΔΗΜΟΣ ΦΙΛΙΑΤΩΝ",
+      "vatNumber": "099628168",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6322",
+      "label": "ΔΗΜΟΣ ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ",
+      "vatNumber": "997953565",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6309",
+      "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+      "vatNumber": "998565702",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6310",
+      "label": "ΔΗΜΟΣ ΦΟΛΕΓΑΝΔΡΟΥ",
+      "vatNumber": "090382971",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6311",
+      "label": "ΔΗΜΟΣ ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+      "vatNumber": "090393125",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6312",
+      "label": "ΔΗΜΟΣ ΦΥΛΗΣ",
+      "vatNumber": "997675481",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6313",
+      "label": "ΔΗΜΟΣ ΧΑΙΔΑΡΙΟΥ",
+      "vatNumber": "090206914",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6314",
+      "label": "ΔΗΜΟΣ ΧΑΛΑΝΔΡΙΟΥ",
+      "vatNumber": "090191830",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6315",
+      "label": "ΔΗΜΟΣ ΧΑΛΚΗΔΟΝΟΣ",
+      "vatNumber": "997630623",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6316",
+      "label": "ΔΗΜΟΣ ΧΑΛΚΗΣ",
+      "vatNumber": "099470059",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6317",
+      "label": "ΔΗΜΟΣ ΧΑΛΚΙΔΕΩΝ",
+      "vatNumber": "997591353",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6318",
+      "label": "ΔΗΜΟΣ ΧΑΝΙΩΝ",
+      "vatNumber": "997678759",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6319",
+      "label": "ΔΗΜΟΣ ΧΕΡΣΟΝΗΣΟΥ",
+      "vatNumber": "997579272",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6320",
+      "label": "ΔΗΜΟΣ ΧΙΟΥ",
+      "vatNumber": "997895268",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6321",
+      "label": "ΔΗΜΟΣ ΨΑΡΩΝ",
+      "vatNumber": "090406463",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6323",
+      "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+      "vatNumber": "997652001",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "6324",
+      "label": "ΔΗΜΟΣ ΩΡΩΠΟΥ",
+      "vatNumber": "997690908",
+      "category": "MUNICIPALITY"
+    },
+    {
+      "uid": "100072229",
+      "label": "ΕΝΕΡΓΕΙΑΚΗ ΚΟΙΝΟΤΗΤΑ ΑΓΡΙΝΙΟΥ ΣΥΝ ΠΕ",
+      "vatNumber": "996848939",
+      "category": "MUNICIPALITY"
+    }
+  ]
+}
