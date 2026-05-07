@@ -71,45 +71,47 @@ function TopList({ entries, colorByKey = {}, activeName = '' }) {
   }
 
   return (
-    <ul className="space-y-2.5">
-      {top.map((entry) => {
-        const share = total > 0 ? entry.total / total : 0;
-        const dotColor = colorByKey[entry.key];
-        const dimmed = activeName && entry.name !== activeName;
-        return (
-          <li
-            key={entry.key}
-            className={`flex flex-wrap items-baseline gap-x-3 gap-y-1 text-xs transition-opacity sm:flex-nowrap ${
-              dimmed ? 'opacity-30' : ''
-            }`}
-          >
-            <span
-              className="mt-1 h-2 w-2 shrink-0 rounded-full"
-              style={{ backgroundColor: dotColor || 'transparent' }}
-              aria-hidden
-            />
-            <div className="min-w-0 flex-1 basis-full sm:basis-auto">
-              <p className="truncate font-medium text-slate-800" title={entry.name}>
-                {entry.name}
-              </p>
-              {entry.afm ? (
-                <p className="text-2xs text-slate-400">ΑΦΜ {entry.afm}</p>
-              ) : null}
-            </div>
-            <div className="ml-5 shrink-0 text-left text-xs sm:ml-0 sm:w-[100px]">
-              <span className="font-medium tabular-nums text-slate-700">{entry.count}</span>{' '}
-              <span className="text-slate-400">εγγραφές</span>
-            </div>
-            <div className="ml-auto shrink-0 text-right sm:w-[110px]">
-              <span className="block text-sm font-semibold tabular-nums text-slate-900">
-                {formatCurrency(entry.total)}
-              </span>
-              <span className="text-2xs text-slate-400">{(share * 100).toFixed(1)}%</span>
-            </div>
-          </li>
-        );
-      })}
-    </ul>
+    <div className="overflow-x-auto">
+      <ul className="min-w-[560px] space-y-2.5">
+        {top.map((entry) => {
+          const share = total > 0 ? entry.total / total : 0;
+          const dotColor = colorByKey[entry.key];
+          const dimmed = activeName && entry.name !== activeName;
+          return (
+            <li
+              key={entry.key}
+              className={`flex items-baseline gap-3 text-xs transition-opacity ${
+                dimmed ? 'opacity-30' : ''
+              }`}
+            >
+              <span
+                className="mt-1 h-2 w-2 shrink-0 rounded-full"
+                style={{ backgroundColor: dotColor || 'transparent' }}
+                aria-hidden
+              />
+              <div className="min-w-0 flex-1">
+                <p className="whitespace-nowrap font-medium text-slate-800" title={entry.name}>
+                  {entry.name}
+                </p>
+                {entry.afm ? (
+                  <p className="whitespace-nowrap text-2xs text-slate-400">ΑΦΜ {entry.afm}</p>
+                ) : null}
+              </div>
+              <div className="w-[100px] shrink-0 whitespace-nowrap text-left text-xs">
+                <span className="font-medium tabular-nums text-slate-700">{entry.count}</span>{' '}
+                <span className="text-slate-400">εγγραφές</span>
+              </div>
+              <div className="w-[110px] shrink-0 whitespace-nowrap text-right">
+                <span className="block text-sm font-semibold tabular-nums text-slate-900">
+                  {formatCurrency(entry.total)}
+                </span>
+                <span className="text-2xs text-slate-400">{(share * 100).toFixed(1)}%</span>
+              </div>
+            </li>
+          );
+        })}
+      </ul>
+    </div>
   );
 }
 
@@ -138,7 +140,7 @@ function PieCard({
   const pieData = entries.map((e) => ({ key: e.key, name: e.name, value: e.total }));
 
   return (
-    <article>
+    <article className="min-w-0">
       {title ? (
         <h4 className="mb-3 text-sm font-semibold text-slate-700">{title}</h4>
       ) : null}
