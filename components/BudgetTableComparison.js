@@ -108,7 +108,7 @@ function SortMenu({ sortBy, sortDir, onChange }) {
     <div className="relative">
       <button
         type="button"
-        className="input flex !w-[220px] items-center gap-2 whitespace-nowrap"
+        className="input flex w-full items-center gap-2 whitespace-nowrap sm:!w-[220px]"
         onClick={() => setOpen((v) => !v)}
         onBlur={() => setTimeout(() => setOpen(false), 150)}
       >
@@ -403,7 +403,7 @@ function RecordTableCard({
   const rows = filteredRecords.slice(start, end);
 
   return (
-    <div className="space-y-4">
+    <div className="min-w-0 space-y-4">
       {showTitle ? (
         <div className="flex flex-wrap items-center justify-between gap-3">
           <h4 className="text-sm font-semibold text-slate-800">{title}</h4>
@@ -413,8 +413,8 @@ function RecordTableCard({
         </div>
       ) : null}
 
-      <div className="flex flex-wrap items-center justify-between gap-2">
-        <div className="relative">
+      <div className="flex flex-col gap-2 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between">
+        <div className="relative w-full sm:w-auto">
           <div className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-slate-400">
               <circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" />
@@ -425,13 +425,13 @@ function RecordTableCard({
             value={searchText}
             onChange={(event) => setSearchText(event.target.value)}
             placeholder="Αναζήτηση..."
-            className="input w-44 !pl-10"
+            className="input w-full !pl-10 sm:w-44"
             aria-label="Search records"
           />
         </div>
-        <div className="flex items-center gap-2">
+        <div className="flex flex-col items-stretch gap-2 sm:flex-row sm:items-center">
           <select
-            className="input w-48"
+            className="input w-full sm:w-48"
             value={amountRange}
             onChange={(event) => setAmountRange(event.target.value)}
             aria-label="Φίλτρο ποσού"
@@ -485,11 +485,11 @@ function RecordTableCard({
                       </button>
                     </td>
                     <td className="whitespace-nowrap px-3 py-2.5 text-xs text-slate-500">{row.date || '-'}</td>
-                    <td className="max-w-[220px] px-3 py-2.5 text-xs text-slate-700">
-                      <span className="line-clamp-2">{row.title || '-'}</span>
+                    <td className="whitespace-nowrap px-3 py-2.5 text-xs text-slate-700" title={row.title}>
+                      {row.title || '-'}
                     </td>
-                    <td className="max-w-[160px] px-3 py-2.5 text-xs text-slate-500">
-                      <span className="line-clamp-1">{row.payee || '-'}</span>
+                    <td className="whitespace-nowrap px-3 py-2.5 text-xs text-slate-500" title={row.payee}>
+                      {row.payee || '-'}
                     </td>
                     <td className="whitespace-nowrap px-3 py-2.5 text-right text-xs font-semibold tabular-nums text-slate-900">
                       {formatCurrency(row.amount)}

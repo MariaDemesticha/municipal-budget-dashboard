@@ -79,7 +79,7 @@ function TopList({ entries, colorByKey = {}, activeName = '' }) {
         return (
           <li
             key={entry.key}
-            className={`flex items-baseline gap-3 text-xs transition-opacity ${
+            className={`flex flex-wrap items-baseline gap-x-3 gap-y-1 text-xs transition-opacity sm:flex-nowrap ${
               dimmed ? 'opacity-30' : ''
             }`}
           >
@@ -88,7 +88,7 @@ function TopList({ entries, colorByKey = {}, activeName = '' }) {
               style={{ backgroundColor: dotColor || 'transparent' }}
               aria-hidden
             />
-            <div className="min-w-0 flex-1">
+            <div className="min-w-0 flex-1 basis-full sm:basis-auto">
               <p className="truncate font-medium text-slate-800" title={entry.name}>
                 {entry.name}
               </p>
@@ -96,11 +96,11 @@ function TopList({ entries, colorByKey = {}, activeName = '' }) {
                 <p className="text-2xs text-slate-400">ΑΦΜ {entry.afm}</p>
               ) : null}
             </div>
-            <div className="w-[100px] shrink-0 text-left text-xs">
+            <div className="ml-5 shrink-0 text-left text-xs sm:ml-0 sm:w-[100px]">
               <span className="font-medium tabular-nums text-slate-700">{entry.count}</span>{' '}
               <span className="text-slate-400">εγγραφές</span>
             </div>
-            <div className="w-[110px] shrink-0 text-right">
+            <div className="ml-auto shrink-0 text-right sm:w-[110px]">
               <span className="block text-sm font-semibold tabular-nums text-slate-900">
                 {formatCurrency(entry.total)}
               </span>
